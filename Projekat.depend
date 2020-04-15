@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1580910510 source:c:\documents and settings\wp\desktop\projekat\projekat\main.cpp
+	<tchar.h>
+	<windows.h>
+	"WarriorPlayerOne.h"
+	"WarriorPlayerTwo.h"
+	"SonyaPlayerOne.h"
+	"SonyaPlayerTwo.h"
+	"Constants.h"
+	"Arena.h"
+	"Input.h"
+	"Player.h"
+
+1577647247 source:c:\documents and settings\wp\desktop\projekat\projekat\src\object.cpp
+	"Object.h"
+
+1577647282 c:\documents and settings\wp\desktop\projekat\projekat\include\object.h
+
+1580894552 source:c:\documents and settings\wp\desktop\projekat\projekat\src\warriorplayertwo.cpp
+	"WarriorPlayerTwo.h"
+
+1580810171 c:\documents and settings\wp\desktop\projekat\projekat\include\warriorplayertwo.h
+	"Object.h"
+	"Constants.h"
+	"Player.h"
+	<tchar.h>
+	<windows.h>
+
+1580890423 c:\documents and settings\wp\desktop\projekat\projekat\include\constants.h
+
+1580892657 c:\documents and settings\wp\desktop\projekat\projekat\include\arena.h
+	"Object.h"
+	"Constants.h"
+	<tchar.h>
+	<windows.h>
+
+1580904956 source:c:\documents and settings\wp\desktop\projekat\projekat\src\arena.cpp
+	"Arena.h"
+	<stdio.h>
+
+1580810151 c:\documents and settings\wp\desktop\projekat\projekat\include\warriorplayerone.h
+	"Object.h"
+	"Constants.h"
+	"Player.h"
+	<tchar.h>
+	<windows.h>
+
+1580894558 source:c:\documents and settings\wp\desktop\projekat\projekat\src\warriorplayerone.cpp
+	"WarriorPlayerOne.h"
+
+1580810311 c:\documents and settings\wp\desktop\projekat\projekat\include\player.h
+	"Constants.h"
+	"Object.h"
+	<tchar.h>
+	<windows.h>
+
+1579990214 c:\documents and settings\wp\desktop\projekat\projekat\include\input.h
+	<stdio.h>
+	"Constants.h"
+	"Player.h"
+
+1580889184 source:c:\documents and settings\wp\desktop\projekat\projekat\src\input.cpp
+	"Input.h"
+
+1580808683 source:c:\documents and settings\wp\desktop\projekat\projekat\src\player.cpp
+	"Player.h"
+
+1580894569 source:c:\documents and settings\wp\desktop\projekat\projekat\src\sonyaplayerone.cpp
+	"SonyaPlayerOne.h"
+
+1580809634 c:\documents and settings\wp\desktop\projekat\projekat\include\sonyaplayerone.h
+	"Object.h"
+	"Constants.h"
+	"Player.h"
+	<tchar.h>
+	<windows.h>
+
+1580894563 source:c:\documents and settings\wp\desktop\projekat\projekat\src\sonyaplayertwo.cpp
+	"SonyaPlayerTwo.h"
+
+1580810130 c:\documents and settings\wp\desktop\projekat\projekat\include\sonyaplayertwo.h
+	"Object.h"
+	"Constants.h"
+	"Player.h"
+	<tchar.h>
+	<windows.h>
+
